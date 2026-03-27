@@ -1,1 +1,54 @@
+PlaceIQ 
+
+PlaceIQ is a cutting-edge, client-side Placement Intelligence Platform built by Ritesh Kumar Singh. It empowers students to discover 500+ colleges, predict CTCs/placement probabilities, forecast GATE/CAT scores, compare institutions head-to-head, and track weekly news—all in a sleek, interactive web app.
+​
+
+✨ Key Features
+College Discovery: Filter/search 500 colleges by stream, state, fees, NIRF rank, avg CTC (e.g., IIT Bombay: 24.5L avg).
+​
+
+AI Placement Predictor: Input CGPA, tier, skills (Python/ML/Docker), internships → Get CTC range + probability (95% accuracy claimed).
+​
+
+Score Oracle: Predict GATE/CAT/CUET scores from mocks, prep months, subjects → Eligibility ranks (e.g., GATE CSE 65+ for IISc).
+​
+
+Head-to-Head Compare: Stack 4 colleges; neon highlights best metrics (placement %, highest offers).
+​
+
+Weekly Digest: Curated news (e.g., IITs record CTCs, AI hiring surge 62% MoM).
+​
+
+Dark/Light Theme + Animations: Custom cursor, orbs, shimmers, tilt effects for immersive UX.
+​
+
+🚀 Quick Start
+Open placeiq-v4.html in any modern browser (Chrome/Firefox).
+
+Register/login (demo: any email/password).
+
+Navigate tabs: Colleges → Predict → Compare → News.
+
+All data client-side—no servers, zero tracking.
+​
+
+🛠 Tech Stack
+Frontend: Vanilla HTML/CSS/JS (Exo2, DM Mono, Outfit fonts).
+
+Effects: Canvas grids/noise/orbs, CSS animations (shimmers, tilts, marquees).
+
+AI Models: Rule-based predictors (CGPA/skills weighted formulas).
+​
+
+📱 Responsive & Offline
+Fully responsive (mobile/desktop). Runs offline post-load. Quick tour on first login.
+​
+
+🤝 Contact
+Creator: Ritesh Kumar Singh (GLBITM, +91 77558 662XX).
+
+Feedback: Use in-app AI chat or email csds23134@glbitm.ac.in.
+​
+
+Built with ❤️ for data-driven careers. Star/fork if helpful!
 
